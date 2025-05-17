@@ -46,6 +46,7 @@ Model evaluation is conducted using standard classification metrics including pr
 # Deployment
 
 The trained chatbot model is deployed as an interactive web interface using Gradio. This interface accepts user text input, processes it through the preprocessing and prediction pipeline, and returns contextually appropriate responses mapped from the predicted intent. The deployment supports easy local hosting and can be extended for cloud or public deployment.
+https://6b1c989ff0d3000750.gradio.live/
 
 # Usage
 
